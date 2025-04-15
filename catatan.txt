@@ -1,0 +1,8 @@
+1. bisa ga si kita kombinasikan dengan berbagai model, kaya misalnya pake efficient net untuk content + vgg19 untuk style,  atau mungkin di content dan style masing masing punya 2 model 
+2. Bisa ga ya kita pakein deep learning, karna gw nemu papernya kann mengenai ini 
+3. Apakah style transfer ini bisa dikombinasikan dengan task lain seperti segmentation?
+4. Apakah NST ini bisa di gunakan untuk selain visual? 
+5. Dan kalau bisa, fokus dalam penelitian ini kemana? apakah visual ? atau mau sekalian melenceng?
+6. Fokus dan tujuannya apakah mau membuat model pak? atau mau membuat seperti produk aplikasi pak?
+7. Apakah untuk model yang digunakan mau selain vgg19?
+8. Kalau pakai style dari banyak gambar, misalnya dua atau tiga style, bagaimana biasanya cara 8. ngaturnya Pak? Ada teknik blending-nya atau loss-nya dikombinasi?

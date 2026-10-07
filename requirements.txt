@@ -9,17 +9,19 @@ tensorflow-hub>=0.16.0
 timm>=0.9.0
 torchinfo>=1.8.0
 
-# Image Processing & Computer Vision
+# Image Processing, Perceptual Metrics & Computer Vision
 pillow>=10.0.0
 matplotlib>=3.7.0
 numpy>=1.24.0
 scipy>=1.10.0
 rembg>=2.0.50
+lpips>=0.1.4
 
 # Data Analysis & Progress
 pandas>=2.0.0
 tqdm>=4.65.0
 
-# Jupyter Environment
+# Interactive Jupyter Environment
 ipykernel>=6.25.0
 notebook>=7.0.0
+ipywidgets>=8.0.0
